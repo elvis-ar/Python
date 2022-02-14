@@ -15,9 +15,5 @@ def main():
         else:
             left = medium + 1
 
-
-
-
-
 if __name__ == "__main__":
     main()
